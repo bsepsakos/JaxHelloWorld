@@ -6,7 +6,7 @@ import javax.jws.WebService;
 public class JaxHelloWorld {
 	
 	public void Constructor() {
-		
+		 
 	}
 	
 	public String Hello(String s) {
